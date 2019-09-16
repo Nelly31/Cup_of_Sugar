@@ -11,12 +11,15 @@ The project was built by Duncan Haran, Jess Noriega-Lessard and Nelly Main over 
 
 ## Screenshots
 1. Main page with all unfiltered articles
+
 ![main page](https://github.com/Nelly31/Cup_of_Sugar/blob/55a9d136cbaea580a6237fbe0660fa85b9d85b30/project_planning/Screenshot%20-%20Main%20Full%20Page.png)
 
 2. Filtered notices page in responsive mobile size
+
 ![responsive](https://github.com/Nelly31/Cup_of_Sugar/blob/55a9d136cbaea580a6237fbe0660fa85b9d85b30/project_planning/Screenshot%20-%20Notices%20-%20responsive.png)
 
 3. Registration page
+
 ![registration page](https://github.com/Nelly31/Cup_of_Sugar/blob/55a9d136cbaea580a6237fbe0660fa85b9d85b30/project_planning/Screenshot%20-%20Registration.png)
 
 ## Tech/Framework
@@ -24,13 +27,15 @@ The backend was built was Ruby on Rails and the Front End predominately with Rea
 
 ## Installation
 
-The project is divded into a frontend under the client folder and a backend. 
+The project is divided into a frontend under the client folder and a backend. 
 
 #### To start the backend:
 
 Within the project directory - backend
 
-Run "bundle install" to install all dependencies. 
+Run "bundle install" to install all dependencies.
+
+Run "rails db:reset" to reset and seed the database. 
 
 Run "bin/rails s -p 3001 -b 0.0.0.0" to start. 
 
