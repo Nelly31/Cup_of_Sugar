@@ -3,7 +3,8 @@
 ## Project Overview
 Cup of sugar is a social platform that allows users to connect with other members who live close by. 
 
-User can add notices, build events and share items they have to share or would like to borrow. 
+User can add notices, build events and add items they have to share or would like to borrow. 
+Users can add their own attendance to an event, see others who are attending and add and view comments. 
 
 ## Motivation
 
